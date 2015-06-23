@@ -1,0 +1,33 @@
+{
+  "name": "minibirds",
+  "version": "1.0.0",
+  "description": "birds and wack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylejz/mini-birds.git"
+  },
+  "keywords": [
+    "birds",
+    "more",
+    "birds",
+    "kittens",
+    "birds"
+  ],
+  "author": "funky Kevin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kylejz/mini-birds/issues"
+  },
+  "homepage": "https://github.com/kylejz/mini-birds#readme",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.0",
+    "mongojs": "^1.0.1"
+  }
+}
